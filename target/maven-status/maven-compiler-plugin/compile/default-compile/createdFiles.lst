@@ -1,0 +1,6 @@
+com\projects\librarymanagementmodel\Book.class
+com\projects\librarymanagementcontroller\BookController.class
+com\projects\librarymanagement\LibrarymanagementApplication.class
+com\projects\librarymanagementservice\BookService.class
+com\projects\librarymanagementdto\BookDTO.class
+com\projects\librarymanagementrepository\BookRepository.class
